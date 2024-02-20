@@ -25,6 +25,16 @@ int main() {
 }
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+<!---
+- [ ] add headers
+- [ ] add code block
+- [ ] add lists
+---!>
+
 
 <!--- 
 this is a comment messages
